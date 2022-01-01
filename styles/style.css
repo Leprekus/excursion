@@ -39,6 +39,11 @@ p {
     color: gray;
 }
 
+footer {
+    display: flex;
+    justify-content: right;
+}
+
 #phone-icon{
     padding: 1.8%;
 }
