@@ -1,3 +1,44 @@
 * {
+    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+ }
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+#phone-icon{
+    padding: 1.8%;
 }
